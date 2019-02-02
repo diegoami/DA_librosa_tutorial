@@ -146,7 +146,7 @@ plt.xlabel('Time')
 plt.axis('tight')
 plt.ylim([0, 1.05])
 plt.legend()
-plt.show()
+plt.show()  
 
 
 #########################################################################
